@@ -8,5 +8,6 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-- César Gálvez Dorado (cesgaldor@alum.us.es);
+- César Gálvez Dorado (cesgaldor@alum.us.es)
+- Alvaro Sevilla Cabrera (alvsevcab@alum.us.es)
 - María Isabel Pedraz Rodríguez  (marpedrod3@alum.us.es)
