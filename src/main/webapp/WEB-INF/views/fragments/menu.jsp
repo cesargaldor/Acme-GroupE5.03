@@ -10,10 +10,10 @@
 - they accept any liabilities with respect to them.
 --%>
 
-<%@page language="java" import="acme.framework.helpers.PrincipalHelper,acme.roles.Provider,acme.roles.Consumer"%>
+<%@page language="java" import="acme.framework.helpers.PrincipalHelper,acme.roles.Provider,acme.roles.Consumer"%> 
 
 <%@taglib prefix="jstl" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@taglib prefix="tiles" uri="http://tiles.apache.org/tags-tiles"%>
+<%@taglib prefix="tiles" uri="http://tiles.apache.org/tags-tiles"%> 
 <%@taglib prefix="acme" uri="urn:jsptagdir:/WEB-INF/tags"%>
 
 <acme:menu-bar code="master.menu.home">
@@ -21,7 +21,10 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-cesar" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-pepe" action="https://www.hackthebox.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alvaro" action="https://www.twitch.tv/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-mariel" action="https://www.cuquirecetasdemariel.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.favourite-link-carolina" action="https://www.youtube.com/watch?v=L_LUpnjgPso&t=14088s"/>
+      <acme:menu-suboption code="master.menu.anonymous.favourite-link-alvaro" action="https://www.twitch.tv/"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

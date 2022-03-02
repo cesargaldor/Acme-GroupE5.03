@@ -19,8 +19,11 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link-cesar = 49135030: Gálvez Dorado, César
+master.menu.anonymous.favourite-link-mariel = 53772352: Pedraz Rodríguez, María Isabel
+master.menu.anonymous.favourite-link-carolina = 53738719: Carrasco Díaz, Carolina
 master.menu.anonymous.favourite-link-pepe = 20605668: Rojas Romero, José Joaquín
 master.menu.anonymous.favourite-link-alvaro = 45339624: Sevilla Cabrera, Alvaro
+
 
 # master.menu.administrator ###################################################
 
