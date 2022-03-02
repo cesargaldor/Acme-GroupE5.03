@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-cesar" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-mariel" action="https://www.cuquirecetasdemariel.com/"/>
       <acme:menu-suboption code="master.menu.anonymous.favourite-link-carolina" action="https://www.youtube.com/watch?v=L_LUpnjgPso&t=14088s"/>
+      <acme:menu-suboption code="master.menu.anonymous.favourite-link-pepe" action="https://www.hackthebox.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
